@@ -1,0 +1,50 @@
+[
+    {
+        "id":"01",
+        "course_name":"Python For kids",
+        "course_category":"python",
+        "image_url":"https://www.freecodecamp.org/news/content/images/2021/08/chris-ried-ieic5Tq8YMk-unsplash.jpg",
+        "course_fee":"500Tk",
+        "course_description":"Learn to use the Python language to create programs of all kinds. Author Jason Cannon will guide you from complete unfamiliarity with Python to creating practical applications. "
+    },
+    {
+        "id":"02",
+        "course_name":"Python Fundamentals",
+        "course_category":"python",
+        "image_url":"https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80",
+        "course_fee":"5000Tk",
+        "course_description":"Learn to use the Python language to create programs of all kinds. Author Jason Cannon will guide you from complete unfamiliarity with Python to creating practical applications with Python Fundamentals to enrich your knowledge. "
+    },
+    {
+        "id":"03",
+        "course_name":"Python OOP",
+        "course_category":"python",
+        "image_url":"https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=906&q=80",
+        "course_fee":"4000Tk",
+        "course_description":"In Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming. It aims to implement real-world entities like inheritance, polymorphisms, encapsulation, etc. in the programming. "
+    },
+    {
+        "id":"04",
+        "course_name":"Python For Apps",
+        "course_category":"python",
+        "image_url":"https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "course_fee":"6000Tk",
+        "course_description":"In Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming. It aims to implement real-world entities like inheritance, polymorphisms, encapsulation, etc. in the programming. "
+    },
+    {
+        "id":"05",
+        "course_name":"Python For Mechine Learning",
+        "course_category":"python",
+        "image_url":"https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "course_fee":"7000Tk",
+        "course_description":"Learn the basics of machine learning with TensorFlow's guided curriculum and resources. Build machine learning into your apps and deploy everywhere with TensorFlow by Google. Train your model. Build your ML model. Build better apps with ML. Deep learning framework. "
+    },
+    {
+        "id":"06",
+        "course_name":"Python For Ethics",
+        "course_category":"python",
+        "image_url":"https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "course_fee":"10000Tk",
+        "course_description":"As a Computer Science Engineer who encrypts the world, one should know how Hacking activities are done. And we must stand front in protecting our world from cybercriminals."
+    }
+]
