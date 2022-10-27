@@ -12,7 +12,7 @@ app.get('/category',(req,res)=>{
 
 
 // get all course
-const allCourses = require('./courseData/courseData.json')
+const allCourses = require('./courseData/courseData.json');
 app.get('/',(req ,res)=>{
     res.send(allCourses);
 })
